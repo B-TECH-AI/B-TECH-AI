@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: sans-serif;
+    color: black;
+    font-size: 60px;
+}
+p{
+    color: black;
+    font-family: sans-serif;
+    font-size: small;
+}
+.narbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.nav-items ul li{
+display: inline;
+margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+a span {
+    color: black;
+    border-bottom: 2px; solid
+}
+.btn-box button {
+    border-radius: 10px;
+    padding: 15px;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 93, 33);
+}
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 15px;
+}
+.hero-section button{
+    border: none;
+    color:white ;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:#5454D4;
+}
+.text{
+    margin-top: 110px;
+}
+.img-box{
+    width: 500;;height: 400;
+}
+.logo-section{
+    margin-top: 5px;
+    justify-content: space-between;
+    display: flex;
+}
+.img-cal{
+    display:flex ;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 10px;
+}
+.text-two{
+    margin: 110px;
+}
+.text-three p{
+    color: blueviolet;
+    margin-top: 20px;
+}
+.metrics-section{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.text-four{
+    margin: 100px;;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 110px;
+    padding: 10px;
+    just
+}
+.btn-two{
+    background-color: rgb(107, 25, 255);
+    margin: 110;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+
+
+    
+}
