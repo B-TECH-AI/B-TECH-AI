@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0px;
+    /* padding: 0rem 6rem; */
+    
+}
+h1{
+    font-family: sans-serif;
+    color: black;
+    font-size: 60px;
+}
+p{
+    color: black;
+    font-family: sans-serif;
+    font-size: small;
+}
+.narbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 15px; */
+    background-color: aqua;
+    padding: 1rem 6rem;
+}
+.nav-items{
+    background-color: blue;
+    display: flex;
+    gap:5px;
+}
+.nav-items ul{
+    margin: 0px;
+    padding: 0px;
+
+
+}
+.nav-items ul li{
+display: inline;
+margin: 0px 20px;
+list-style-type: none;
+
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+a span {
+    color: black;
+    border-bottom: 2px solid blue
+    
+
+}
+.btn-box button {
+    border-radius: 10px;
+    padding: 15px;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 93, 33);
+}
+.hero-section {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 6rem;
+    /* margin-top: 30px; */
+    /* padding: 15px; */
+}
+.hero-section button{
+    border: none;
+    color:white ;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:#5454D4;
+}
+.text{
+    /* margin-top: 110px; */
+    background-color: yellowgreen;
+}
+.img-box{
+    /* width: 500;;height: 400; */
+}
+.logo-section{
+    background-color: gold;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 6rem;
+}
+.img-cal{
+    display:flex ;
+    justify-content: space-between;
+    padding:1rem 6rem;
+    background-color: blueviolet;
+    /* margin-top: 10px; */
+}
+.text-two{
+    background-color: aqua;
+    padding: 4rem;
+}
+.text-three p{
+    color: blueviolet;
+     padding: 1rem;
+}
+.metrics-section{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 6rem;
+    background-color: brown;
+}
+.text-four{
+    padding: 4rem;
+}
+.icon{
+    background-color: green;
+    /* display: flex; */
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* text-align: center; */
+    /* margin: 110px; */
+    /* padding: 10px; */
+}
+.hero-sectionthree{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+    padding: 1rem 6rem;
+
+}
+.img-seven{
+    background-color: #5454D4;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 6rem;
+    text-align: center;
+}
+.btn-boxthree{
+    /* background-color:#5454D4; */
+    border-radius:10px;
+    border: none;
+    padding:10px;
+    /* color: #FFFFFF; */
+    width: 160px;
+    height: 55px;
+    color: #F7F7FB;
+}
+.btn-boxthree button{
+    background-color:#5454D4;
+    border-radius:10px 0px 0px 10px;
+     color: #F7F7FB;
+     width: 160px;
+     height: 55px;     
+}
+.btn-boxthree button span{
+    color: white;
+    width: 160px;
+    height: 55px;
+}
+.hosting-section{
+    background-color: blue;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    padding: 1rem 6rem;
+}
+.text-ten{
+    background-color: white;
+    width: 330px;
+    height: 449px;
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 5px;
+
+
+
+}
+.text-eleven{
+    background-color: orangered;
+    width: 330px;
+    height: 449px;
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 56px;
+    letter-spacing: 5px;
+    
+}
+.text-twelve{
+    background-color: white;
+    width: 330px;
+    height: 449px;
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 5px;
+}
+.text-ten button{
+border-radius: 15px;
+border: none;
+background-color: white;
+color: #5454D4;
+}
+.text-eleven button{
+    border-radius: 5px;
+    border: none;
+    background-color: brown;
+    color: white;
+}
+.text-twelve button{
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    color: #5454D4;
+}
